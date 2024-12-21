@@ -2,7 +2,7 @@
 
 I'm Manish S, a passionate game developer, crafting immersive experiences with Unity. I've recently delved into the world of backend development, expanding my skillset. 
 
-Beyond development, I'm also the founder of [delicio.in](delicio.in), a food pre-ordering platform designed to help people enjoy their meals even on a tight schedule!
+Beyond development, I'm also the founder of [delicio.in](https://www.delicio.in/), a food pre-ordering platform designed to help people enjoy their meals even on a tight schedule!
 
 - 🔭 **Interests:** Game Dev, Backend Dev, Entrepreneurship, Problem Solving.
 
